@@ -1,0 +1,56 @@
+                    CSE 260, Parallel Computation
+                            (FALL 2020)
+           Department of Computer Science and Engineering 	
+                 University of California, San Diego 	
+
+
+               Team Self Evaluation Form, Assignment #3
+
+Each team must submit one copy of this self evaluation form. 
+The members of each team should discuss how they
+worked together and what to write for the evaluation.
+If you worked alone leave column B blank
+
+(1) List the names of your team members:
+
+A:Chihao Yu
+
+ 
+B:Xinchen Xie
+
+ 
+ 
+(2) Estimate how much time each team member devoted to this project, in HOURS.
+
+  	                        A 	       B
+meetings 	  	  	          2          2
+coding 	  	  	            8          13
+writeup 	  	  	          7          5
+planning (alone) 	  	  	  3          2
+total (including meetings) 	20         20	  	 
+
+
+(3) Discuss the following.
+(a) If you worked in a team, what were the major responsibilities
+    of each team member?
+Chihao Yu:Implementing and debugging part of the ghost cell exchange algorithm and running the batch of different geometry.
+Xinchen Xie: Implemented 1D and 2D communication. Implemented Optimization. Completed part 1 2 3 of the report.
+(b) Did you complete the assignment?
+    Yes.
+(c) What were your major strengths and weaknesses in doing this
+    assignment (individually or in a team)?
+  Chihao Yu: strength:always eager to learn, weakness: took me some time to understand whole idea
+  Xinchen Xie: strength: coding and debugging ability, weakness: credit management
+    If in a team, also discuss how your team worked together.
+  Our team organized the meetings and code writing pretty well.
+(d) What  lessons did you learn from these events.
+Chihao Yu:Learned how MPI can reduce the total time and increase Gflops
+Xinchen Xie: Learned MPI and use of expanse.
+(e) If in a team, whether and how you plan to change the way
+    your work together .
+Chihao Yu:I think overall we did really well, really good team
+Xinchen Xie: no complaint.
+(f) Anything else that comes to mind.
+No
+
+
